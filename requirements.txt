@@ -2,3 +2,5 @@ streamlit
 joblib
 emoji
 sklearn
+seaborn
+neattext
