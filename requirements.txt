@@ -1,3 +1,6 @@
 joblib
 emoji
 sklearn
+neattext
+seaborn
+
